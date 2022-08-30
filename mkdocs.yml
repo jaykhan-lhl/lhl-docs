@@ -52,10 +52,12 @@ nav:
       - web/index.md
       - WordPress: 
         - Accessibility: web/wordpress/accessibility.md
+        - Microsites: web/wordpress/microsites.md
+        - Oxygen: web/wordpress/oxygen-builder.md
       - Vue JS:
         - Intro: web/vue/index.md
       - RoR:
-        - Intro: web/ror/index.md
+        - Blog: web/ror/blog.md
 
   - Graphics:
       - graphics/index.md
