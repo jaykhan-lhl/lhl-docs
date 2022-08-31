@@ -1,4 +1,4 @@
-site_name: LHL Docs
+site_name: LHL Research Docs
 repo_url: https://github.com/jaykhan-lhl/lhl-docs
 repo_name: jaykhan-lhl/lhl-docs
 theme:
@@ -45,19 +45,22 @@ markdown_extensions:
       alternate_style: true
 
 nav:
-  - Lighthouse Labs:
-      - index.md
 
   - Web:
-      - web/index.md
       - WordPress: 
         - Accessibility: web/wordpress/accessibility.md
         - Microsites: web/wordpress/microsites.md
-        - Oxygen: web/wordpress/oxygen-builder.md
+        - Oxygen: web/wordpress/oxygen.md
+        - REST API: web/wordpress/rest-api.md
       - Vue JS:
-        - Intro: web/vue/index.md
+        - WordPress + Vue: web/vue/wordpress-connect.md
+        - Authentication: web/vue/vue-auth.md
+        - Accessibility: web/vue/accessibility.md
       - RoR:
         - Blog: web/ror/blog.md
+        - Deployment: web/ror/deployment.md
 
   - Graphics:
       - graphics/index.md
+
+      
