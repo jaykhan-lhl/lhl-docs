@@ -20,6 +20,8 @@ const baseURL = "https://jakem38.sg-host.com/wp-json/wp/v2/"
 
 ## Swagger Docs
 
+[Link](https://jakem38.sg-host.com/rest-api/docs/)
+
 ```
 https://jakem38.sg-host.com/rest-api/docs/
 ```

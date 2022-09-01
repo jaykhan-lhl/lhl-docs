@@ -7,9 +7,9 @@ tags:
   - documentation
 ---
 
-# Marketing
+# Lighthouse Labs Research Docs
 
-The information contained in this documentation only includes information that is already publicly known.  The purpose is to gather the sources into one location for sharing amongst the team.
+All of the information regarding web and graphic design tech/info is public knowledge. Links to official documents are listed where possible.
 
 
 

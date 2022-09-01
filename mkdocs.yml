@@ -61,6 +61,7 @@ nav:
         - Deployment: web/ror/deployment.md
 
   - Graphics:
-      - graphics/index.md
-
+      - Assets: 
+        - Overview: graphics/assets/overview.md
+      - Stylesheets: graphics/stylesheets/stylesheets.md
       
