@@ -1,13 +1,15 @@
 # REST API
 
-WordPress provides a public API with limited features.  To use all the features would require authentication.
+WordPress provides a public API with limited features.  In order to use all the features, the external app will need to be authenticated.
 
 ## Handbook
-The official handbook for the WordPress REST API.
+The official [handbook]((https://developer.wordpress.org/rest-api/)) for the WordPress REST API.
 
-[Link](https://developer.wordpress.org/rest-api/)
+
 
 ## Staging site URL
+
+[See Raw API](https://jakem38.sg-host.com/wp-json/wp/v2/)
 
 ```
 https://jakem38.sg-host.com/wp-json/wp/v2/
